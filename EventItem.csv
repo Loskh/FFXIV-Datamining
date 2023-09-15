@@ -2183,7 +2183,7 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,bit&01,str,Image,Action,byte,b
 2002345,"用旧了的工具",0,"",0,0,1,0,0,False,"","ui/icon/021000/021003.tex","",3,1,"通向复兴的交错路",0,"normal/item_start",0
 2002346,"瞪羚的大角",0,"",0,0,1,0,0,False,"","ui/icon/022000/022206.tex","",1,1,"离开的人与留下的人",0,"normal/item_start",0
 2002347,"洽普利蚱蜢的腿",0,"",0,0,1,0,0,False,"","ui/icon/026000/026110.tex","",3,1,"被禁止的风土菜",0,"normal/item_start",0
-2002348,"蓝闪蝶鳞粉",0,"",0,0,1,0,0,False,"","ui/icon/021000/021219.tex","",1,1,"鳞粉的光辉",0,"normal/item_start",0
+2002348,"闪蝶鳞粉",0,"",0,0,1,0,0,False,"","ui/icon/021000/021219.tex","",1,1,"鳞粉的光辉",0,"normal/item_start",0
 2002349,"花蜜糖浆",0,"",0,0,1,0,0,False,"","ui/icon/025000/025102.tex","任务道具",1,1,"鳞粉的光辉",3,"normal/item_start",0
 2002350,"轻巧包裹",0,"",0,0,1,0,0,False,"","ui/icon/026000/026109.tex","",1,1,"辐射村的特产",0,"normal/item_start",0
 2002351,"新鲜的蔬菜",0,"",0,0,1,0,0,False,"","ui/icon/025000/025207.tex","任务道具",1,1,"彷徨的憎恶",3,"normal/item_start",0
@@ -3037,7 +3037,6 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,bit&01,str,Image,Action,byte,b
 2003253,"破幻魔法的理念",0,"",0,0,1,0,0,False,"","ui/icon/020000/020001.tex","任务道具",1,1," 哪个才是艾伊德斯？",3,"normal/item_start",0
 2003254,"艾伊德斯的碎片",0,"",0,0,1,0,0,False,"","ui/icon/059000/059451.tex","",1,1," 哪个才是艾伊德斯？",0,"normal/item_start",0
 2003255,"遗光的核心",0,"",0,0,1,0,0,False,"","ui/icon/021000/021263.tex","",2,1," 寻求肉体",0,"normal/item_start",0
-2003256,"未使用再利用可能",0,"",0,0,1,0,0,False,"",,"",1,1,,0,"normal/item_start",0
 2003257,"龙星的红花",0,"",0,0,1,0,0,False,"","ui/icon/025000/025633.tex","",1,1," 宝石般的繁星",0,"normal/item_start",0
 2003258,"龙星的白花",0,"",0,0,1,0,0,False,"","ui/icon/025000/025634.tex","",1,1," 宝石般的繁星",0,"normal/item_start",0
 2003259,"被抢的观察记录",0,"",0,0,1,0,0,False,"","ui/icon/026000/026151.tex","",99,1,,0,"normal/item_start",0
@@ -3212,3 +3211,9 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,bit&01,str,Image,Action,byte,b
 2003456,"特殊传送魔纹地图3",0,"",0,0,1,0,0,False,"","ui/icon/026000/026151.tex","任务道具",1,2,,0,"normal/item_start",0
 2003457,"蛇牛革制的宝物地图",0,"",0,0,1,0,0,False,"","ui/icon/026000/026151.tex","任务道具",1,2,,0,"normal/item_start",0
 2003458,"6级传送魔纹的地图",0,"",0,0,1,0,0,False,"","ui/icon/026000/026151.tex","任务道具",1,2,,0,"normal/item_start",0
+2003461,"经过调制的专用香辛料",0,"",0,0,1,0,0,False,"","ui/icon/025000/025979.tex","",1,1,"寻味拉札罕",0,"normal/item_start",0
+2003463,"特殊宝物地图4",0,"",0,0,1,0,0,False,"","ui/icon/026000/026151.tex","任务道具",1,2,,0,"normal/item_start",0
+2003464,"特殊传送魔纹地图4",0,"",0,0,1,0,0,False,"","ui/icon/026000/026151.tex","任务道具",1,2,,0,"normal/item_start",0
+2003465,"少年们的礼物",0,"",0,0,1,0,0,False,"","ui/icon/026000/026109.tex","任务道具",1,1,"她的梦，她的家",0,"normal/item_start",0
+2003466,"绳编手环",0,"",0,0,1,0,0,False,"","ui/icon/026000/026113.tex","",3,1,"星芒节与孩子们的友情",0,"normal/item_start",0
+2003467,"刻有朋友名字的手环",0,"",0,0,1,0,0,False,"","ui/icon/026000/026107.tex","",1,1,"星芒节与孩子们的友情",0,"normal/item_start",0

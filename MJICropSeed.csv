@@ -14,3 +14,7 @@ int32,Item,ExportedSG,EObjName
 10,"海岛小萝卜","bgcommon/mji/feed/0010/asset/fee_f0_m0010.sgb","海岛小萝卜"
 11,"海岛红辣椒","bgcommon/mji/feed/0020/asset/fee_f0_m0020.sgb","海岛红辣椒"
 12,"海岛韭葱","bgcommon/mji/feed/0009/asset/fee_f0_m0009.sgb","海岛韭葱"
+13,"海岛花豆","bgcommon/mji/feed/0004/asset/fee_f0_m0004.sgb","海岛红花菜豆"
+14,"海岛红菜","bgcommon/mji/feed/0011/asset/fee_f0_m0011.sgb","海岛红菜"
+15,"海岛茄子","bgcommon/mji/feed/0014/asset/fee_f0_m0014.sgb","海岛茄子"
+16,"海岛西葫芦","bgcommon/mji/feed/0017/asset/fee_f0_m0017.sgb","海岛西葫芦"
